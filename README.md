@@ -103,3 +103,5 @@ That's the basics of how an image recognition model works! Now you know how to b
 Applications after applications are present for an AI recognition model. Whether it's for letting AI play chess with you, or make helpful medical diagnoses along with the professionals, or even find and recognize people and animals in an image, the possibilities are endless for such a next-level model as this. Thank you for reading all of this, and I hope you keep using YOUR neurons in your computer programming journey!
 
 - Yodahe Wondimu, Computer Scientist
+
+P.S. Change up the images! All of the images marked under the commit "added images via upload" are changable after you clone this repo. **This image recognition model was made with the four base images as a starting point, but you can replace the images with another data set (e.g. MNIST, Cifar-10), uncomment the training code, run the model, change the class names and such as necessary, and allow the model to fit onto any dataset! I've already seen this exact model work with MNIST at ~90% accuracy, give or take, way before I made this repo public, so feel free to stretch the limits!**
