@@ -1,4 +1,6 @@
-# AI-Image-Recognizer
+# AI-Image-Recognition
+### A beginner ML experiment/one of my very first projects
+___
 An AI program that recognizes and characterizes images through its neural network - which is basically a brain. Think about that for a minute. A brain, inside of your computer. On top of that, guess what? I can show you how.
 
 Where does every program start? Easy question - the libraries that it needs. It's just got to borrow a few things and be good to go.
